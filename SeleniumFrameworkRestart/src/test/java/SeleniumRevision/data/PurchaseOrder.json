@@ -1,0 +1,20 @@
+[
+	{
+		"email": "avinash123@gmail.com",
+		"password": "a12345@A",
+		"product": "ADIDAS ORIGINAL",
+		"partialCountryName": "ind",
+		"countryName": "India",
+		"coupon": "rahulshettyacademy",
+		"tyMSG": "THANKYOU FOR THE ORDER."
+	},
+	{
+		"email": "avinash0062@gmail.com",
+		"password": "Avinash0062@1",
+		"product": "ZARA COAT 3",
+		"partialCountryName": "cub",
+		"countryName": "Cuba",
+		"coupon": "rahulshettyacademy",
+		"tyMSG": "THANKYOU FOR THE ORDER."
+	}
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="POM Stand Alone Test(failed)">
+    <classes>
+      <class name="SeleniumRevision.POMStandAloneTest">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="verifyProductInOrdersPage"/>
+          <include name="tearDown"/>
+          <include name="submitOrder"/>
+        </methods>
+      </class> <!-- SeleniumRevision.POMStandAloneTest -->
+    </classes>
+  </test> <!-- POM Stand Alone Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
