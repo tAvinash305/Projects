@@ -2,10 +2,10 @@
 
 This repository contains a Selenium WebDriver automation framework built with Java and TestNG. It is designed for scalable, maintainable, and reusable UI test scripts to ensure application quality.
 
-Features
+*Test Framework Details*
 
-- Built with Java + Selenium WebDriver
-- Test execution using TestNG
-- Supports Page Object Model (POM) for maintainability
-- Easy integration with Maven for dependency management
-- Generates detailed HTML test reports
+- Language: Java
+- Automation Tool: Selenium WebDriver
+- Test Framework: TestNG
+- Build Tool: Maven
+- Design Pattern: Page Object Model (POM)
